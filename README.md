@@ -21,7 +21,7 @@ CameraCoach analyzes your viewfinder in two layers:
 - Live composition overlay: rule-of-thirds grid, level indicator, subject tracker, aesthetics score, directional guidance arrows
 - AI coaching with selectable backend, detail level (brief tip vs. 2–3 sentence critique), and 20+ languages
 - Session gallery with photo viewing, video playback, and deletion (removes from your photo library too, with iOS confirmation)
-- Usage controls: request throttling, pixel-level motion detection (a static scene sends nothing), live request/token readout, all-time usage stats, auto-pause during playback/settings, auto-off after 5 minutes of video recording
+- AI usage controls: request throttling, pixel-level motion detection (a static scene sends nothing), live request/token readout, all-time usage stats, auto-pause during playback/settings, auto-off after 5 minutes of video recording
 - Privacy by design: one-time consent before any frame leaves the phone, on-screen upload indicator, on-device face blurring before upload, EXIF/location stripping, API keys in the hardware Keychain, HTTPS enforced for non-local servers
 
 ## Requirements
